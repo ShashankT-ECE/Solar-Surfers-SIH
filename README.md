@@ -1,5 +1,3 @@
-
-
 ## 1. What Our Project Does
 This system automates the dewatering process in underground mines by continuously
 monitoring water level, flow rate, and turbidity, and then controlling pumps 
